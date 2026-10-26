@@ -22,11 +22,11 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20260729-2";
+  var APP_VERSION = "20261026-title-affiliation";
 
   var I18N = {
     ko: {
-      appTitle: "Drift Route Map Viewer: The Case of Yi Bang-ik, 1796–1797",
+      appTitle: "A Castaway’s Return Route: The Case of Yi Bang-ik, 1796–1797",
       fitVisible: "현재 레이어 맞춤",
       basemap: "배경 지도",
       scenes: "장면",
@@ -89,7 +89,7 @@
       adminContextDesc: "시계열 현급 행정 지점과 행정 경계를 포함해 지명 위치를 검토합니다."
     },
     en: {
-      appTitle: "Drift Route Map Viewer: The Case of Yi Bang-ik, 1796–1797",
+      appTitle: "A Castaway’s Return Route: The Case of Yi Bang-ik, 1796–1797",
       fitVisible: "Fit visible layers",
       basemap: "Basemap",
       scenes: "Scenes",
